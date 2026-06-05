@@ -1,0 +1,3 @@
+participant_id,group,age_years,sex,condition,baseline_filename,vr_filename,notes
+sub-001,control,,,baseline;vr,eeg_....csv,eeg_....csv,anonymized metadata only
+sub-002,triathlete,,,baseline;vr,eeg_....csv,eeg_....csv,anonymized metadata only

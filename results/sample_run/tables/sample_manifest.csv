@@ -1,0 +1,5 @@
+participant_id,group,condition,source_filename,note
+sub-control-01,control,baseline,eeg_1500046_21_1653460112005.csv,Example uploaded file used to test the pipeline; raw CSV not included in GitHub package.
+sub-control-02,control,vr,eeg_1500192_9_1661323145626.csv,Example uploaded file used to test the pipeline; raw CSV not included in GitHub package.
+sub-triathlete-01,triathlete,baseline,eeg_1500025_21_1652258595932.csv,Example uploaded file used to test the pipeline; raw CSV not included in GitHub package.
+sub-triathlete-01,triathlete,vr,eeg_1500025_9_1652261665542.csv,Example uploaded file used to test the pipeline; raw CSV not included in GitHub package.

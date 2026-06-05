@@ -1,0 +1,8 @@
+channel,electrode_label,system,description
+PzLE,Pz,DSI-7 dry-electrode montage,midline parietal
+F4LE,F4,DSI-7 dry-electrode montage,right frontal
+C4LE,C4,DSI-7 dry-electrode montage,right central
+P4LE,P4,DSI-7 dry-electrode montage,right parietal
+P3LE,P3,DSI-7 dry-electrode montage,left parietal
+C3LE,C3,DSI-7 dry-electrode montage,left central
+F3LE,F3,DSI-7 dry-electrode montage,left frontal
