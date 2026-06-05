@@ -15,7 +15,7 @@ git init
 git add .
 git commit -m "Initial EEG-VR dataset processing code"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/eeg-vr-dataset-code.git
+git remote add origin https://github.com/Saif-aljumaili/EEG-VR.git
 git push -u origin main
 ```
 
