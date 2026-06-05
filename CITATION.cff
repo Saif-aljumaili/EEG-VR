@@ -5,11 +5,7 @@ type: software
 authors:
   - family-names: "Al-Jumaili"
     given-names: "Saif"
-  - family-names: "Ozgün"
-    given-names: "İrem"
-  - family-names: "Pires"
-    given-names: "Ivan Miguel"
 version: 1.0.0
 date-released: 2026-06-05
-repository-code: "https://github.com/YOUR_USERNAME/eeg-vr-dataset-code"
+repository-code: "https://github.com/Saif-aljumaili/EEG-VR.git"
 license: MIT
