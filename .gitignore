@@ -1,0 +1,22 @@
+# Raw EEG data should be stored in Zenodo/Figshare/OpenNeuro, not GitHub
+*.csv
+!data/metadata/*.csv
+!results/sample_run/tables/*.csv
+*.edf
+*.bdf
+*.xdf
+*.mat
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large local processing outputs
+results/full_run/
+results/matlab_full_run/

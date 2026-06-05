@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "EEG-VR Dataset Code"
+message: "If you use this code, please cite the associated Data Descriptor and dataset DOI."
+type: software
+authors:
+  - family-names: "Al-Jumaili"
+    given-names: "Saif"
+  - family-names: "Ozgün"
+    given-names: "İrem"
+  - family-names: "Pires"
+    given-names: "Ivan Miguel"
+version: 1.0.0
+date-released: 2026-06-05
+repository-code: "https://github.com/YOUR_USERNAME/eeg-vr-dataset-code"
+license: MIT
